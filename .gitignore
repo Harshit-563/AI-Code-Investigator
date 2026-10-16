@@ -1,0 +1,12 @@
+.venv
+.venv-1
+.vscode
+__pycache__
+tmp_clone_check
+data/repos/
+.env
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
